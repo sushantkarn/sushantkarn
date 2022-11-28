@@ -44,10 +44,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
+  
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushantkarn&show_icons=true&locale=en&layout=compact" alt="sushantkarn" /></p>
-<br/>
+</div>
+  
+<div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantkarn&show_icons=true&locale=en" alt="sushantkarn" /></p>
+</div>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
