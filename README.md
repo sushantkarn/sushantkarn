@@ -57,7 +57,7 @@
 
 <p align="center">
 <a href="https://twitter.com/sus_hantkarn"><img alt="Twitter" src="https://img.shields.io/twitter/follow/sus_hantkarn?style=social"></a>
-<a href="mailto:sushantkarn.ino.np@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sushantkarn.ino.np@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:mail@sushantkarn.com.np"><img alt="Email" src="https://img.shields.io/badge/Email-mail@sushantkarn.com.np-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [sushantkarn](https://github.com/sushantkarn)
