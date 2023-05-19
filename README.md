@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant Karn</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate software developer from Nepal</h3>
 
 - 🌱 I’m currently learning **C Language**
 - 👨‍💻 All of my projects are available at [https://sushantkarn.info.np](https://sushantkarn.info.np)
