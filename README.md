@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushant Karn</h1>
 <h3 align="center">A passionate software developer from Nepal</h3>
 
-- 🌱 I’m currently learning **C Language**
+- 🌱 I’m currently learning **Python Language**
 - 👨‍💻 All of my projects are available at [https://sushantkarn.info.np](https://sushantkarn.info.np)
 - 📝 I regularly write articles on [https://sushantkarn.com.np](https://sushantkarn.com.np)
 - 💬 Ask me about **Web Dev**
