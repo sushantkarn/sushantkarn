@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python Language**
 - 👨‍💻 All of my projects are available at [https://sushantkarn.info.np](https://sushantkarn.info.np)
-- 📝 I regularly write articles on [https://flowrage.com](https://flowrage.com)
+- 📝 I regularly write articles on [https://sushantkarn.com.np](https://sushantkarn.com.np)
 - 💬 Ask me about **Web Dev**
 - ⚡ Fun fact **I think coding is an alien language!**
 
